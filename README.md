@@ -1,11 +1,14 @@
-The main idea of this project is to somehow reduce the barrier of communication between deaf-dumb and normal people. To minimize this barrier, the proposed device converts their hand gestures into voice which a normal person can understand.
+TThe main idea of this project was to somehow reduce the barrier of communication between deaf-dumb and normal people and guide blind people through their day to day activities.
 
-BLIND section(made seperately to work independently without any hastle to blind people) REPO -- [link](https://github.com/yashtronx/_Blind_)
+1. It helps deaf and dumb people communicate through the application, where normal people could input what they want to say to the deaf and it would formulate the signs which you could show to the deaf people.
 
+2. For dumb people, the application can be used by normal people to scan hand signs made by them to find out what they are trying to say to you.
 
+3. Finally, it could be used by the blind to detect objects in front of them as they walk with Google Text-to-Speech.
+
+BLIND section (made seperately to work independently without any hastle for blind people) REPO -- [link](https://github.com/DushyantSengupta/_Blind_)
+
+Note:
 TO RUN THE FINAL VERSION OF APPLICATION , BOTH APKS MENTIONED BELOW ARE REQUIRED TO BE INSTALLED FOR FULL FUNCTIONALITY
-
-
 | UVAACH(MAIN APP) | [Download link](https://drive.google.com/file/d/1LmyqCtwk_IGmrxBAbvHK_HdtXUWiYRi1/view?usp=sharing) |
-
-| Blind Section(needed for blind section to work) | [Download link](https://drive.google.com/file/d/1o7bYhfoXy86LMf42NcuFOVU8pWUT_Wzw/view?usp=sharing) |
+| Blind Section(needed for blind section to work) | [Download link](https://drive.google.com/file/d/1o7bYhfoXy86LMf42NcuFOVU8pWUT_Wzw/view?usp=sharing)|
