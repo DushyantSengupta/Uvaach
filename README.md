@@ -11,6 +11,6 @@ BLIND section (made seperately to work independently without any hastle for blin
 Note:
 To run the final version of the application, both the apks mentioned below are required to be installed for full functionality.
 
-| UVAACH(MAIN APP) | [Download link](https://drive.google.com/file/d/1LmyqCtwk_IGmrxBAbvHK_HdtXUWiYRi1/view?usp=sharing) |
+| Uvaach (Main App) | [Download link](https://drive.google.com/file/d/1LmyqCtwk_IGmrxBAbvHK_HdtXUWiYRi1/view?usp=sharing) |
 
-| Blind Section(needed for blind section to work) | [Download link](https://drive.google.com/file/d/1o7bYhfoXy86LMf42NcuFOVU8pWUT_Wzw/view?usp=sharing)|
+| Blind Section (needed for blind section to work) | [Download link](https://drive.google.com/file/d/1o7bYhfoXy86LMf42NcuFOVU8pWUT_Wzw/view?usp=sharing)|
