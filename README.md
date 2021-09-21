@@ -6,6 +6,8 @@ The main idea of this project was to somehow reduce the barrier of communication
 
 3. Finally, it could be used by the blind to detect objects in front of them as they walk with Google Text-to-Speech.
 
+You can check out the details presentation included in the repo for more details about the application, the technologies used and how the features of the application were made.
+
 BLIND section (made seperately to work independently without any hastle for blind people) Repo -- [Link](https://github.com/DushyantSengupta/_Blind_)
 
 Note:
