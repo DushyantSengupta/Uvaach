@@ -1,4 +1,4 @@
-TThe main idea of this project was to somehow reduce the barrier of communication between deaf-dumb and normal people and guide blind people through their day to day activities.
+The main idea of this project was to somehow reduce the barrier of communication between deaf-dumb and normal people and guide blind people through their day to day activities.
 
 1. It helps deaf and dumb people communicate through the application, where normal people could input what they want to say to the deaf and it would formulate the signs which you could show to the deaf people.
 
